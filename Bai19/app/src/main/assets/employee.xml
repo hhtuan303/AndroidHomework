@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employees>
+    <employee id="1" title="Architect">
+        <name>Đoàn Ái Nương</name>
+        <phone>016566150432</phone>
+    </employee>
+    <employee id="2" title="Engineer">
+        <name>Đoàn Chính</name>
+        <phone>016323232323</phone>
+    </employee>
+    <employee id="3" title="Teacher">
+        <name>Trần Chính Nghĩa</name>
+        <phone>014242424244</phone>
+    </employee>
+    <employee id="4" title="Engineer">
+        <name>Châu Bá Thông</name>
+        <phone>016323223231</phone>
+    </employee>
+    <employee id="5" title="Server">
+        <name>Kiều Phong</name>
+        <phone>016323232333</phone>
+    </employee>
+</employees>
